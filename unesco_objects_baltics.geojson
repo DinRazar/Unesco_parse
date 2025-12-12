@@ -1,0 +1,6214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.309,
+          47.94
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 47.94,
+        "longitude": 24.309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.135,
+          47.948
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 47.948,
+        "longitude": 24.135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3833333333,
+          48.1333333333
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.1333333333,
+        "longitude": 24.3833333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.188,
+          48.193
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.193,
+        "longitude": 24.188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6833333333,
+          48.3
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.3,
+        "longitude": 23.6833333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65,
+          48.35
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.35,
+        "longitude": 23.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.702,
+          48.378
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.378,
+        "longitude": 23.702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.172,
+          48.421
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.421,
+        "longitude": 23.172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.785,
+          48.446
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.446,
+        "longitude": 23.785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.094,
+          48.454
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.454,
+        "longitude": 23.094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.296,
+          48.475
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.475,
+        "longitude": 24.296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.773,
+          48.488
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 48.488,
+        "longitude": 23.773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.59,
+          49.082
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 49.082,
+        "longitude": 22.59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.244,
+          49.175
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 49.175,
+        "longitude": 26.244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.647,
+          49.958
+        ]
+      },
+      "properties": {
+        "site": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+        "category": "Natural",
+        "year": "2007",
+        "country": "UA",
+        "states": "Albania,Austria,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czechia,France,Germany,Italy,North Macedonia,Poland,Romania,Slovakia,Slovenia,Spain,Switzerland,Ukraine",
+        "iso_code": [
+          "al",
+          "at",
+          "ba",
+          "be",
+          "bg",
+          "ch",
+          "cz",
+          "de",
+          "es",
+          "fr",
+          "hr",
+          "it",
+          "mk",
+          "pl",
+          "ro",
+          "si",
+          "sk",
+          "ua"
+        ],
+        "latitude": 49.958,
+        "longitude": 23.647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9278807,
+          45.3325962
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "UA",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 45.3325962,
+        "longitude": 28.9278807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9916666667,
+          49.1486111111
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "UA",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 49.1486111111,
+        "longitude": 26.9916666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6819444444,
+          49.33
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "UA",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 49.33,
+        "longitude": 26.6819444444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7561111111,
+          49.5658333333
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "UA",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 49.5658333333,
+        "longitude": 26.7561111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5713888889,
+          52.1608333333
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "BY",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 52.1608333333,
+        "longitude": 25.5713888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5563888889,
+          52.2077777778
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "BY",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 52.2077777778,
+        "longitude": 25.5563888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6494444444,
+          52.2894444444
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "BY",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 52.2894444444,
+        "longitude": 25.6494444444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8697222222,
+          53.5605555556
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "BY",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 53.5605555556,
+        "longitude": 24.8697222222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0452777778,
+          54.2916666667
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "BY",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 54.2916666667,
+        "longitude": 26.0452777778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4291666667,
+          54.6344444444
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "LT",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 54.6344444444,
+        "longitude": 25.4291666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3166666667,
+          54.9308333333
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "LT",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 54.9308333333,
+        "longitude": 25.3166666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4366666667,
+          55.9025
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "LT",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 55.9025,
+        "longitude": 25.4366666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8566666667,
+          56.5013888889
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "LV",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 56.5013888889,
+        "longitude": 25.8566666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6366666667,
+          56.84
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "LV",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 56.84,
+        "longitude": 25.6366666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.72,
+          58.3788888889
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "EE",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 58.3788888889,
+        "longitude": 26.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4141666667,
+          59.0483333333
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "EE",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 59.0483333333,
+        "longitude": 26.4141666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3377777778,
+          59.0577777778
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "EE",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 59.0577777778,
+        "longitude": 26.3377777778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9697222222,
+          60.0741666667
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "RU",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 60.0741666667,
+        "longitude": 26.9697222222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9611111111,
+          60.0852777778
+        ]
+      },
+      "properties": {
+        "site": "Struve Geodetic Arc",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "RU",
+        "states": "Belarus,Estonia,Finland,Latvia,Lithuania,Norway,Republic of Moldova,Russian Federation,Sweden,Ukraine",
+        "iso_code": [
+          "by",
+          "ee",
+          "fi",
+          "lt",
+          "lv",
+          "md",
+          "no",
+          "ru",
+          "se",
+          "ua"
+        ],
+        "latitude": 60.0852777778,
+        "longitude": 26.9611111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9811111111,
+          52.7275
+        ]
+      },
+      "properties": {
+        "site": "Białowieża Forest",
+        "category": "Natural",
+        "year": "1979",
+        "country": "BY",
+        "states": "Belarus,Poland",
+        "iso_code": [
+          "by",
+          "pl"
+        ],
+        "latitude": 52.7275,
+        "longitude": 23.9811111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.96239,
+          55.27458
+        ]
+      },
+      "properties": {
+        "site": "Curonian Spit",
+        "category": "Cultural",
+        "year": "2000",
+        "country": "LT",
+        "states": "Lithuania,Russian Federation",
+        "iso_code": [
+          "lt",
+          "ru"
+        ],
+        "latitude": 55.27458,
+        "longitude": 20.96239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.25,
+          50.0833333333
+        ]
+      },
+      "properties": {
+        "site": "Uvs Nuur Basin",
+        "category": "Natural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.0833333333,
+        "longitude": 95.25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2,
+          50.2
+        ]
+      },
+      "properties": {
+        "site": "Uvs Nuur Basin",
+        "category": "Natural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.2,
+        "longitude": 90.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.75,
+          50.25
+        ]
+      },
+      "properties": {
+        "site": "Uvs Nuur Basin",
+        "category": "Natural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.25,
+        "longitude": 94.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6333333333,
+          50.5333333333
+        ]
+      },
+      "properties": {
+        "site": "Uvs Nuur Basin",
+        "category": "Natural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.5333333333,
+        "longitude": 95.6333333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1333333333,
+          50.6166666667
+        ]
+      },
+      "properties": {
+        "site": "Uvs Nuur Basin",
+        "category": "Natural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.6166666667,
+        "longitude": 93.1333333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0,
+          50.6166666667
+        ]
+      },
+      "properties": {
+        "site": "Uvs Nuur Basin",
+        "category": "Natural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.6166666667,
+        "longitude": 94.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.7333333333,
+          50.6666666667
+        ]
+      },
+      "properties": {
+        "site": "Uvs Nuur Basin",
+        "category": "Natural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.6666666667,
+        "longitude": 94.7333333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0,
+          50.1972222222
+        ]
+      },
+      "properties": {
+        "site": "Landscapes of Dauria",
+        "category": "Natural",
+        "year": "2017",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.1972222222,
+        "longitude": 116.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.286944444,
+          50.3627777778
+        ]
+      },
+      "properties": {
+        "site": "Landscapes of Dauria",
+        "category": "Natural",
+        "year": "2017",
+        "country": "RU",
+        "states": "Mongolia,Russian Federation",
+        "iso_code": [
+          "mn",
+          "ru"
+        ],
+        "latitude": 50.3627777778,
+        "longitude": 115.286944444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3445833333,
+          48.2551388889
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 48.2551388889,
+        "longitude": 24.3445833333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0114694444,
+          48.4986555556
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 48.4986555556,
+        "longitude": 25.0114694444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1088888889,
+          48.9154722222
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 48.9154722222,
+        "longitude": 23.1088888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8545878271,
+          48.9840121969
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 48.9840121969,
+        "longitude": 22.8545878271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4994444444,
+          49.3477361111
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 49.3477361111,
+        "longitude": 23.4994444444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6029138889,
+          49.4102777778
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 49.4102777778,
+        "longitude": 24.6029138889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9822138889,
+          50.0553388889
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 50.0553388889,
+        "longitude": 23.9822138889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5508333333,
+          50.2086111111
+        ]
+      },
+      "properties": {
+        "site": "Wooden <em>Tserkvas</em> of the Carpathian Region in Poland and Ukraine",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Poland,Ukraine",
+        "iso_code": [
+          "pl",
+          "ua"
+        ],
+        "latitude": 50.2086111111,
+        "longitude": 23.5508333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.47272222,
+          53.45108333
+        ]
+      },
+      "properties": {
+        "site": "Mir Castle Complex",
+        "category": "Cultural",
+        "year": "2000",
+        "country": "BY",
+        "states": "Belarus",
+        "iso_code": [
+          "by"
+        ],
+        "latitude": 53.45108333,
+        "longitude": 26.47272222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.69139,
+          53.22278
+        ]
+      },
+      "properties": {
+        "site": "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "BY",
+        "states": "Belarus",
+        "iso_code": [
+          "by"
+        ],
+        "latitude": 53.22278,
+        "longitude": 26.69139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74,
+          59.437
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre (Old Town) of Tallinn",
+        "category": "Cultural",
+        "year": "1997",
+        "country": "EE",
+        "states": "Estonia",
+        "iso_code": [
+          "ee"
+        ],
+        "latitude": 59.437,
+        "longitude": 24.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.11667,
+          56.95417
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Riga",
+        "category": "Cultural",
+        "year": "1997",
+        "country": "LV",
+        "states": "Latvia",
+        "iso_code": [
+          "lv"
+        ],
+        "latitude": 56.95417,
+        "longitude": 24.11667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9715277778,
+          56.96775
+        ]
+      },
+      "properties": {
+        "site": "Old town of Kuldīga",
+        "category": "Cultural",
+        "year": "2023",
+        "country": "LV",
+        "states": "Latvia",
+        "iso_code": [
+          "lv"
+        ],
+        "latitude": 56.96775,
+        "longitude": 21.9715277778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.853,
+          54.879
+        ]
+      },
+      "properties": {
+        "site": "Kernavė Archaeological Site (Cultural Reserve of Kernavė)",
+        "category": "Cultural",
+        "year": "2004",
+        "country": "LT",
+        "states": "Lithuania",
+        "iso_code": [
+          "lt"
+        ],
+        "latitude": 54.879,
+        "longitude": 24.853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29306,
+          54.68667
+        ]
+      },
+      "properties": {
+        "site": "Vilnius Historic Centre",
+        "category": "Cultural",
+        "year": "1994",
+        "country": "LT",
+        "states": "Lithuania",
+        "iso_code": [
+          "lt"
+        ],
+        "latitude": 54.68667,
+        "longitude": 25.29306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9291666667,
+          54.8969444444
+        ]
+      },
+      "properties": {
+        "site": "Modernist Kaunas: Architecture of Optimism, 1919-1939",
+        "category": "Cultural",
+        "year": "2023",
+        "country": "LT",
+        "states": "Lithuania",
+        "iso_code": [
+          "lt"
+        ],
+        "latitude": 54.8969444444,
+        "longitude": 23.9291666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2243611111,
+          62.0675833333
+        ]
+      },
+      "properties": {
+        "site": "Kizhi Pogost",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 62.0675833333,
+        "longitude": 35.2243611111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6204166667,
+          55.7540277778
+        ]
+      },
+      "properties": {
+        "site": "Kremlin and Red Square, Moscow",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 55.7540277778,
+        "longitude": 37.6204166667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2746248771,
+          58.4734325752
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.4734325752,
+        "longitude": 31.2746248771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2860957544,
+          58.4868801095
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.4868801095,
+        "longitude": 31.2860957544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2989013222,
+          58.4938703602
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.4938703602,
+        "longitude": 31.2989013222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3281751991,
+          58.4990882943
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.4990882943,
+        "longitude": 31.3281751991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2743757672,
+          58.5079374086
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.5079374086,
+        "longitude": 31.2743757672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2611996037,
+          58.5098697462
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.5098697462,
+        "longitude": 31.2611996037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2826037138,
+          58.5186002396
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.5186002396,
+        "longitude": 31.2826037138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.363624836,
+          58.526367795
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.526367795,
+        "longitude": 31.363624836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.28333,
+          58.53333
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.53333,
+        "longitude": 31.28333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2764338495,
+          58.5365090273
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.5365090273,
+        "longitude": 31.2764338495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2872255678,
+          58.5400061713
+        ]
+      },
+      "properties": {
+        "site": "Historic Monuments of Novgorod and Surroundings",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 58.5400061713,
+        "longitude": 31.2872255678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6666666667,
+          64.95
+        ]
+      },
+      "properties": {
+        "site": "Cultural and Historic Ensemble of the Solovetsky Islands",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 64.95,
+        "longitude": 35.6666666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.65,
+          64.9666666667
+        ]
+      },
+      "properties": {
+        "site": "Cultural and Historic Ensemble of the Solovetsky Islands",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 64.9666666667,
+        "longitude": 35.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0166666667,
+          65.0166666667
+        ]
+      },
+      "properties": {
+        "site": "Cultural and Historic Ensemble of the Solovetsky Islands",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 65.0166666667,
+        "longitude": 36.0166666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9586111111,
+          65.0425
+        ]
+      },
+      "properties": {
+        "site": "Cultural and Historic Ensemble of the Solovetsky Islands",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 65.0425,
+        "longitude": 35.9586111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6666666667,
+          65.0833333333
+        ]
+      },
+      "properties": {
+        "site": "Cultural and Historic Ensemble of the Solovetsky Islands",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 65.0833333333,
+        "longitude": 35.6666666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0963888889,
+          65.1452777778
+        ]
+      },
+      "properties": {
+        "site": "Cultural and Historic Ensemble of the Solovetsky Islands",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 65.1452777778,
+        "longitude": 36.0963888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.3973646343,
+          56.1269177807
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.1269177807,
+        "longitude": 40.3973646343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4181872883,
+          56.1322048694
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.1322048694,
+        "longitude": 40.4181872883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4166666667,
+          56.15
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.15,
+        "longitude": 40.4166666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.5616547077,
+          56.1962739904
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.1962739904,
+        "longitude": 40.5616547077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4333333333,
+          56.4166666667
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.4166666667,
+        "longitude": 40.4333333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4458293926,
+          56.423361293
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.423361293,
+        "longitude": 40.4458293926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.529167,
+          56.425
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.425,
+        "longitude": 40.529167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4419118989,
+          56.4320660334
+        ]
+      },
+      "properties": {
+        "site": "White Monuments of Vladimir and Suzdal",
+        "category": "Cultural",
+        "year": "1992",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.4320660334,
+        "longitude": 40.4419118989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.67389,
+          55.65556
+        ]
+      },
+      "properties": {
+        "site": "Church of the Ascension, Kolomenskoye",
+        "category": "Cultural",
+        "year": "1994",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 55.65556,
+        "longitude": 37.67389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1312,
+          56.31035
+        ]
+      },
+      "properties": {
+        "site": "Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad",
+        "category": "Cultural",
+        "year": "1993",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.31035,
+        "longitude": 38.1312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0083333333,
+          61.8788888889
+        ]
+      },
+      "properties": {
+        "site": "Virgin Komi Forests",
+        "category": "Natural",
+        "year": "1995",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 61.8788888889,
+        "longitude": 57.0083333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0,
+          62.3333333333
+        ]
+      },
+      "properties": {
+        "site": "Virgin Komi Forests",
+        "category": "Natural",
+        "year": "1995",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 62.3333333333,
+        "longitude": 59.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.15,
+          65.0666666667
+        ]
+      },
+      "properties": {
+        "site": "Virgin Komi Forests",
+        "category": "Natural",
+        "year": "1995",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 65.0666666667,
+        "longitude": 60.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6625,
+          53.17361111
+        ]
+      },
+      "properties": {
+        "site": "Lake Baikal",
+        "category": "Natural",
+        "year": "1996",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 53.17361111,
+        "longitude": 107.6625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.0,
+          51.3333333333
+        ]
+      },
+      "properties": {
+        "site": "Volcanoes of Kamchatka",
+        "category": "Natural",
+        "year": "1996",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 51.3333333333,
+        "longitude": 157.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.0,
+          51.95
+        ]
+      },
+      "properties": {
+        "site": "Volcanoes of Kamchatka",
+        "category": "Natural",
+        "year": "1996",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 51.95,
+        "longitude": 158.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.0,
+          53.4666666667
+        ]
+      },
+      "properties": {
+        "site": "Volcanoes of Kamchatka",
+        "category": "Natural",
+        "year": "1996",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 53.4666666667,
+        "longitude": 159.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.0,
+          54.75
+        ]
+      },
+      "properties": {
+        "site": "Volcanoes of Kamchatka",
+        "category": "Natural",
+        "year": "1996",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 54.75,
+        "longitude": 161.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.55,
+          56.1
+        ]
+      },
+      "properties": {
+        "site": "Volcanoes of Kamchatka",
+        "category": "Natural",
+        "year": "1996",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.1,
+        "longitude": 160.55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.5,
+          56.3333333333
+        ]
+      },
+      "properties": {
+        "site": "Volcanoes of Kamchatka",
+        "category": "Natural",
+        "year": "1996",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 56.3333333333,
+        "longitude": 158.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5,
+          49.3666666667
+        ]
+      },
+      "properties": {
+        "site": "Golden Mountains of Altai",
+        "category": "Natural",
+        "year": "1998",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 49.3666666667,
+        "longitude": 87.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0,
+          49.6666666667
+        ]
+      },
+      "properties": {
+        "site": "Golden Mountains of Altai",
+        "category": "Natural",
+        "year": "1998",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 49.6666666667,
+        "longitude": 86.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7111111111,
+          51.4972222222
+        ]
+      },
+      "properties": {
+        "site": "Golden Mountains of Altai",
+        "category": "Natural",
+        "year": "1998",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 51.4972222222,
+        "longitude": 87.7111111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0,
+          44.0
+        ]
+      },
+      "properties": {
+        "site": "Western Caucasus",
+        "category": "Natural",
+        "year": "1999",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 44.0,
+        "longitude": 40.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1064602384,
+          55.7994526626
+        ]
+      },
+      "properties": {
+        "site": "Historic and Architectural Complex of the Kazan Kremlin",
+        "category": "Cultural",
+        "year": "2000",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 55.7994526626,
+        "longitude": 49.1064602384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.56666667,
+          59.95
+        ]
+      },
+      "properties": {
+        "site": "Ensemble of the Ferapontov Monastery",
+        "category": "Cultural",
+        "year": "2000",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.95,
+        "longitude": 38.56666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.7152778,
+          71.18888889
+        ]
+      },
+      "properties": {
+        "site": "Natural System of Wrangel Island Reserve",
+        "category": "Natural",
+        "year": "2004",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 71.18888889,
+        "longitude": -179.7152778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.2827777778,
+          42.0558333333
+        ]
+      },
+      "properties": {
+        "site": "Citadel, Ancient City and Fortress Buildings of Derbent",
+        "category": "Cultural",
+        "year": "2003",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 42.0558333333,
+        "longitude": 48.2827777778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55508333,
+          55.72611111
+        ]
+      },
+      "properties": {
+        "site": "Ensemble of the Novodevichy Convent",
+        "category": "Cultural",
+        "year": "2004",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 55.72611111,
+        "longitude": 37.55508333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87611,
+          57.65278
+        ]
+      },
+      "properties": {
+        "site": "Historical Centre of the City of Yaroslavl",
+        "category": "Cultural",
+        "year": "2005",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.65278,
+        "longitude": 39.87611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1580555556,
+          69.0469444444
+        ]
+      },
+      "properties": {
+        "site": "Putorana Plateau",
+        "category": "Natural",
+        "year": "2010",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 69.0469444444,
+        "longitude": 94.1580555556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1211424909,
+          59.5531025003
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.5531025003,
+        "longitude": 30.1211424909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1322821271,
+          59.5770252437
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.5770252437,
+        "longitude": 30.1322821271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0945596308,
+          59.5794797529
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.5794797529,
+        "longitude": 30.0945596308
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265900076,
+          59.6472878129
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6472878129,
+        "longitude": 30.265900076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4076908797,
+          59.6539060538
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6539060538,
+        "longitude": 30.4076908797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.114341632,
+          59.6631540964
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6631540964,
+        "longitude": 30.114341632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4208629832,
+          59.6760345682
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6760345682,
+        "longitude": 30.4208629832
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4623294379,
+          59.6789100684
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6789100684,
+        "longitude": 30.4623294379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4440701744,
+          59.6808841162
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6808841162,
+        "longitude": 30.4440701744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4511553692,
+          59.6819786369
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6819786369,
+        "longitude": 30.4511553692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.170594922,
+          59.6950244343
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.6950244343,
+        "longitude": 30.170594922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1248997768,
+          59.7003649938
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7003649938,
+        "longitude": 30.1248997768
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.427913255,
+          59.7034950506
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7034950506,
+        "longitude": 30.427913255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3227733783,
+          59.7037017799
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7037017799,
+        "longitude": 30.3227733783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2817683491,
+          59.7171865734
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7171865734,
+        "longitude": 30.2817683491
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3947500838,
+          59.7178016951
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7178016951,
+        "longitude": 30.3947500838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3660010174,
+          59.7202949973
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7202949973,
+        "longitude": 30.3660010174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3923514278,
+          59.7212242741
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7212242741,
+        "longitude": 30.3923514278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8685151095,
+          59.732105323
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.732105323,
+        "longitude": 29.8685151095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9098453265,
+          59.732501732
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.732501732,
+        "longitude": 29.9098453265
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0847950306,
+          59.7335645181
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7335645181,
+        "longitude": 30.0847950306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6308788588,
+          59.7489720717
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7489720717,
+        "longitude": 29.6308788588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.326588791,
+          59.7722944694
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7722944694,
+        "longitude": 30.326588791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2313613155,
+          59.7729392442
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7729392442,
+        "longitude": 30.2313613155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4062159757,
+          59.7818765362
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.7818765362,
+        "longitude": 30.4062159757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.711168597,
+          59.8108038229
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8108038229,
+        "longitude": 29.711168597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1704140091,
+          59.8117409559
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8117409559,
+        "longitude": 30.1704140091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8550118556,
+          59.8162811075
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8162811075,
+        "longitude": 30.8550118556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1500945234,
+          59.8250206842
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8250206842,
+        "longitude": 30.1500945234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5732335006,
+          59.8313743117
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8313743117,
+        "longitude": 30.5732335006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9435450465,
+          59.8415757701
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8415757701,
+        "longitude": 29.9435450465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0880345011,
+          59.8536404323
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8536404323,
+        "longitude": 30.0880345011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0598080293,
+          59.8537026731
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8537026731,
+        "longitude": 30.0598080293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0339573558,
+          59.8541204481
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8541204481,
+        "longitude": 30.0339573558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0578379599,
+          59.8554895651
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8554895651,
+        "longitude": 30.0578379599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7956032155,
+          59.8572264412
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8572264412,
+        "longitude": 29.7956032155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8944863321,
+          59.8572994034
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8572994034,
+        "longitude": 29.8944863321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3214728907,
+          59.8607385978
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8607385978,
+        "longitude": 30.3214728907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8872471304,
+          59.8623430729
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8623430729,
+        "longitude": 29.8872471304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.930469475,
+          59.8722415653
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8722415653,
+        "longitude": 29.930469475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9081457552,
+          59.8760194765
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8760194765,
+        "longitude": 29.9081457552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.964506,
+          59.876883
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.876883,
+        "longitude": 29.964506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8733299313,
+          59.8819938269
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8819938269,
+        "longitude": 29.8733299313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9460064891,
+          59.8827191359
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8827191359,
+        "longitude": 29.9460064891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8479795754,
+          59.8890852214
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8890852214,
+        "longitude": 29.8479795754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8938575213,
+          59.8892522046
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8892522046,
+        "longitude": 29.8938575213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.850583427,
+          59.893690863
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.893690863,
+        "longitude": 29.850583427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8390407157,
+          59.896157743
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.896157743,
+        "longitude": 29.8390407157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8287354209,
+          59.8987114535
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.8987114535,
+        "longitude": 29.8287354209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7037522911,
+          59.9077859327
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9077859327,
+        "longitude": 29.7037522911
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.770140358,
+          59.9097517456
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9097517456,
+        "longitude": 29.770140358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3487532802,
+          59.9120118441
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9120118441,
+        "longitude": 30.3487532802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7329656544,
+          59.9182698615
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9182698615,
+        "longitude": 29.7329656544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6964849522,
+          59.9225810356
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9225810356,
+        "longitude": 29.6964849522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6631671469,
+          59.92561084
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.92561084,
+        "longitude": 29.6631671469
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6755985206,
+          59.9258153217
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9258153217,
+        "longitude": 29.6755985206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.655910173,
+          59.9377440734
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9377440734,
+        "longitude": 30.655910173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0879405277,
+          59.9378945924
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9378945924,
+        "longitude": 30.0879405277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.604877188,
+          59.9437568131
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9437568131,
+        "longitude": 30.604877188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6437223634,
+          59.9445543071
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9445543071,
+        "longitude": 30.6437223634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3331908087,
+          59.9449088551
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9449088551,
+        "longitude": 30.3331908087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0351202556,
+          59.9494027416
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9494027416,
+        "longitude": 31.0351202556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.703,
+          59.95
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.95,
+        "longitude": 29.703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.31833,
+          59.95
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.95,
+        "longitude": 30.31833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0385787926,
+          59.9537790572
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9537790572,
+        "longitude": 31.0385787926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3991319752,
+          59.955719007
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.955719007,
+        "longitude": 30.3991319752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.704,
+          59.958
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.958,
+        "longitude": 29.704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.695,
+          59.972
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.972,
+        "longitude": 29.695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3345214444,
+          59.9727330688
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9727330688,
+        "longitude": 29.3345214444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.717,
+          59.974
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.974,
+        "longitude": 29.717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0070038878,
+          59.9746393007
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9746393007,
+        "longitude": 30.0070038878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.747,
+          59.98
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.98,
+        "longitude": 29.747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7140428163,
+          59.9843877459
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9843877459,
+        "longitude": 29.7140428163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.718,
+          59.989
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.989,
+        "longitude": 29.718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2186813148,
+          59.9891602353
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9891602353,
+        "longitude": 29.2186813148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.734,
+          59.99
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.99,
+        "longitude": 29.734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.1307468296,
+          59.9902220418
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9902220418,
+        "longitude": 30.1307468296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7736111111,
+          59.9936111111
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9936111111,
+        "longitude": 29.7736111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7015062183,
+          59.9950381068
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9950381068,
+        "longitude": 29.7015062183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6848115575,
+          59.9981829901
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 59.9981829901,
+        "longitude": 29.6848115575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.120197719,
+          60.0031012222
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0031012222,
+        "longitude": 30.120197719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0355775695,
+          60.0031919789
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0031919789,
+        "longitude": 30.0355775695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.636518564,
+          60.0041217733
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0041217733,
+        "longitude": 29.636518564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7305390631,
+          60.0094274014
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0094274014,
+        "longitude": 29.7305390631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7302183027,
+          60.0099857334
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0099857334,
+        "longitude": 29.7302183027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8602088303,
+          60.0218380607
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0218380607,
+        "longitude": 29.8602088303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.848,
+          60.022
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.022,
+        "longitude": 29.848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8740506492,
+          60.0228464011
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0228464011,
+        "longitude": 29.8740506492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.825,
+          60.024
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.024,
+        "longitude": 29.825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8978156479,
+          60.0279665168
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0279665168,
+        "longitude": 29.8978156479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.791,
+          60.029
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.029,
+        "longitude": 29.791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6751231244,
+          60.0295448735
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0295448735,
+        "longitude": 29.6751231244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.757,
+          60.03
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.03,
+        "longitude": 29.757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6380784079,
+          60.0318848452
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0318848452,
+        "longitude": 29.6380784079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.919,
+          60.032
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.032,
+        "longitude": 29.919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.639,
+          60.033
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.033,
+        "longitude": 29.639
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.724,
+          60.06
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.06,
+        "longitude": 29.724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3031885314,
+          60.0630010457
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0630010457,
+        "longitude": 30.3031885314
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3043290099,
+          60.0756409346
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0756409346,
+        "longitude": 30.3043290099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7944013382,
+          60.0787083825
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0787083825,
+        "longitude": 29.7944013382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0663204499,
+          60.081597198
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.081597198,
+        "longitude": 31.0663204499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0034185051,
+          60.0851446902
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0851446902,
+        "longitude": 30.0034185051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8483156825,
+          60.0858871154
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0858871154,
+        "longitude": 29.8483156825
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9352890716,
+          60.0895912941
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.0895912941,
+        "longitude": 29.9352890716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.255811987,
+          60.1050799238
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.1050799238,
+        "longitude": 30.255811987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2511007145,
+          60.115535911
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.115535911,
+        "longitude": 30.2511007145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8940372924,
+          60.1559973056
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.1559973056,
+        "longitude": 29.8940372924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.4741004123,
+          60.1866838898
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.1866838898,
+        "longitude": 29.4741004123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.6986620678,
+          60.1910965131
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.1910965131,
+        "longitude": 29.6986620678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.616399703,
+          60.1958183552
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.1958183552,
+        "longitude": 29.616399703
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7987965549,
+          60.2041435368
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.2041435368,
+        "longitude": 29.7987965549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5386124032,
+          60.2297691102
+        ]
+      },
+      "properties": {
+        "site": "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.2297691102,
+        "longitude": 29.5386124032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0588888889,
+          54.9666666667
+        ]
+      },
+      "properties": {
+        "site": "Bolgar Historical and Archaeological Complex",
+        "category": "Cultural",
+        "year": "2014",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 54.9666666667,
+        "longitude": 49.0588888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0563888889,
+          54.9788888889
+        ]
+      },
+      "properties": {
+        "site": "Bolgar Historical and Archaeological Complex",
+        "category": "Cultural",
+        "year": "2014",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 54.9788888889,
+        "longitude": 49.0563888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          60.6666666667
+        ]
+      },
+      "properties": {
+        "site": "Lena Pillars Nature Park",
+        "category": "Natural",
+        "year": "2012",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 60.6666666667,
+        "longitude": 127.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8783333333,
+          61.3363888889
+        ]
+      },
+      "properties": {
+        "site": "Lena Pillars Nature Park",
+        "category": "Natural",
+        "year": "2012",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 61.3363888889,
+        "longitude": 126.8783333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6527777778,
+          55.7702777778
+        ]
+      },
+      "properties": {
+        "site": "Assumption Cathedral and Monastery of the town-island of Sviyazhsk",
+        "category": "Cultural",
+        "year": "2017",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 55.7702777778,
+        "longitude": 48.6527777778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.756111111,
+          45.1285277778
+        ]
+      },
+      "properties": {
+        "site": "Central Sikhote-Alin",
+        "category": "Natural",
+        "year": "2001",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 45.1285277778,
+        "longitude": 136.756111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.166666667,
+          45.3333333333
+        ]
+      },
+      "properties": {
+        "site": "Central Sikhote-Alin",
+        "category": "Natural",
+        "year": "2001",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 45.3333333333,
+        "longitude": 136.166666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.661108333,
+          46.6833305556
+        ]
+      },
+      "properties": {
+        "site": "Central Sikhote-Alin",
+        "category": "Natural",
+        "year": "2001",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 46.6833305556,
+        "longitude": 136.661108333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3340527777,
+          57.8053583333
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8053583333,
+        "longitude": 28.3340527777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3286666667,
+          57.8065555556
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8065555556,
+        "longitude": 28.3286666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3324666667,
+          57.8099916667
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8099916667,
+        "longitude": 28.3324666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3358027777,
+          57.8153055556
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8153055556,
+        "longitude": 28.3358027777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3343305555,
+          57.8155333333
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8155333333,
+        "longitude": 28.3343305555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3339416666,
+          57.8182472223
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8182472223,
+        "longitude": 28.3339416666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3387388889,
+          57.8228861111
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8228861111,
+        "longitude": 28.3387388889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3337472222,
+          57.8232472223
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8232472223,
+        "longitude": 28.3337472222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.318,
+          57.8259166667
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8259166667,
+        "longitude": 28.318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2631083333,
+          57.8350805555
+        ]
+      },
+      "properties": {
+        "site": "Churches of the Pskov School of Architecture",
+        "category": "Cultural",
+        "year": "2019",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 57.8350805555,
+        "longitude": 28.2631083333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0126388889,
+          61.7298972223
+        ]
+      },
+      "properties": {
+        "site": "Petroglyphs of Lake Onega and the White Sea",
+        "category": "Cultural",
+        "year": "2021",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 61.7298972223,
+        "longitude": 36.0126388889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6706027778,
+          64.4914222222
+        ]
+      },
+      "properties": {
+        "site": "Petroglyphs of Lake Onega and the White Sea",
+        "category": "Cultural",
+        "year": "2021",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 64.4914222222,
+        "longitude": 34.6706027778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1190972223,
+          55.7909083333
+        ]
+      },
+      "properties": {
+        "site": "Astronomical Observatories of Kazan Federal University",
+        "category": "Cultural",
+        "year": "2023",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 55.7909083333,
+        "longitude": 49.1190972223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.8124138889,
+          55.8399083333
+        ]
+      },
+      "properties": {
+        "site": "Astronomical Observatories of Kazan Federal University",
+        "category": "Cultural",
+        "year": "2023",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 55.8399083333,
+        "longitude": 48.8124138889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1726111111,
+          61.928
+        ]
+      },
+      "properties": {
+        "site": "Cultural Landscape of Kenozero Lake",
+        "category": "Cultural",
+        "year": "2024",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 61.928,
+        "longitude": 38.1726111111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.0720277778,
+          53.0494444444
+        ]
+      },
+      "properties": {
+        "site": "Rock Paintings of Shulgan-Tash Cave",
+        "category": "Cultural",
+        "year": "2025",
+        "country": "RU",
+        "states": "Russian Federation",
+        "iso_code": [
+          "ru"
+        ],
+        "latitude": 53.0494444444,
+        "longitude": 57.0720277778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0144444444,
+          49.8386111111
+        ]
+      },
+      "properties": {
+        "site": "L'viv – the Ensemble of the Historic Centre",
+        "category": "Cultural",
+        "year": "1998",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 49.8386111111,
+        "longitude": 24.0144444444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0319444444,
+          49.8416666667
+        ]
+      },
+      "properties": {
+        "site": "L'viv – the Ensemble of the Historic Centre",
+        "category": "Cultural",
+        "year": "1998",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 49.8416666667,
+        "longitude": 24.0319444444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9247222222,
+          48.2966666667
+        ]
+      },
+      "properties": {
+        "site": "Residence of Bukovinian and Dalmatian Metropolitans",
+        "category": "Cultural",
+        "year": "2011",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 48.2966666667,
+        "longitude": 25.9247222222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5008333333,
+          44.5238888889
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.5238888889,
+        "longitude": 33.5008333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5466666667,
+          44.5261111111
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.5261111111,
+        "longitude": 33.5466666667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.47,
+          44.5502777778
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.5502777778,
+        "longitude": 33.47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4083333333,
+          44.5605555556
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.5605555556,
+        "longitude": 33.4083333333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4097222222,
+          44.5622222222
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.5622222222,
+        "longitude": 33.4097222222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4113888889,
+          44.5641666667
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.5641666667,
+        "longitude": 33.4113888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4775,
+          44.5708333333
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.5708333333,
+        "longitude": 33.4775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4913888889,
+          44.6108333333
+        ]
+      },
+      "properties": {
+        "site": "Ancient City of Tauric Chersonese and its Chora",
+        "category": "Cultural",
+        "year": "2013",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 44.6108333333,
+        "longitude": 33.4913888889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.558375,
+          50.4339333333
+        ]
+      },
+      "properties": {
+        "site": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 50.4339333333,
+        "longitude": 30.558375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5549166667,
+          50.4373888889
+        ]
+      },
+      "properties": {
+        "site": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 50.4373888889,
+        "longitude": 30.5549166667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5143277778,
+          50.4528555556
+        ]
+      },
+      "properties": {
+        "site": "Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+        "category": "Cultural",
+        "year": "1990",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 50.4528555556,
+        "longitude": 30.5143277778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7416138889,
+          46.48645
+        ]
+      },
+      "properties": {
+        "site": "The Historic Centre of Odesa",
+        "category": "Cultural",
+        "year": "2023",
+        "country": "UA",
+        "states": "Ukraine",
+        "iso_code": [
+          "ua"
+        ],
+        "latitude": 46.48645,
+        "longitude": 30.7416138889
+      }
+    }
+  ]
+}
